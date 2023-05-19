@@ -1,2 +1,3 @@
 # LAIMA_Project
-This is a game that aims to be accessible for children with disabilities.
+This is a project for the Laboratory of Artificial Intelligence and Machine Aid. 
+It consists of a game that uses accessibility concepts for children.
